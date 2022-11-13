@@ -1,4 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+
+😄 - I'm Victor, a super-passionate Developer from south of France.
+
+🔭 - Currently working as freelancers looking for new projects or job offers.
+
+⚡- I'm mostly looking for backend projects, if you want to work with me, reach me out on the link bellow 👇
+
+### Contact
+
+📫 Email: <a href="mailto:victor.darmayan@pm.me">victor.darmayan@pm.me</a>
 
 <!--
 **ViictorD/viictord** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
