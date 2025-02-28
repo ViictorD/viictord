@@ -2,7 +2,7 @@
 
 😄 - I'm Victor, a super-passionate Developer from south of France.
 
-🔭 - Currently working as freelancers looking for new projects or job offers.
+🔭 - Currently working at Naboo.
 
 ⚡- I'm mostly looking for backend projects, if you want to work with me, reach me out on the link bellow 👇
 
