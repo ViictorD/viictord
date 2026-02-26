@@ -2,9 +2,9 @@
 
 😄 - I'm Victor, a super-passionate Developer from south of France.
 
-🔭 - Currently working at Naboo.
+🔭 - Currently working at [Naboo](https://www.naboo.app/).
 
-⚡- I'm mostly looking for backend projects, if you want to work with me, reach me out on the link bellow 👇
+⚡- Rust enthusiast, if you have job offer if this domain, reach me out on the link bellow 👇
 
 ### Contact
 
